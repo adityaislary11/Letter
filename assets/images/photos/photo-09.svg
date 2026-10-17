@@ -1,0 +1,11 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 600 700" role="img" aria-labelledby="title desc">
+  <title id="title">PHOTO 09 placeholder</title>
+  <desc id="desc">Replace this placeholder SVG with your chosen photo.</desc>
+  <rect width="600" height="700" fill="#f9e2eb"/>
+  <circle cx="475" cy="110" r="125" fill="#d48eab" opacity=".35"/>
+  <circle cx="90" cy="610" r="170" fill="#d48eab" opacity=".22"/>
+  <path d="M300 300 C240 235 155 285 190 355 C220 410 300 455 300 455 C300 455 380 410 410 355 C445 285 360 235 300 300Z" fill="#d48eab" opacity=".85"/>
+  <rect x="74" y="525" width="452" height="94" rx="22" fill="#ffffff" opacity=".72"/>
+  <text x="300" y="566" text-anchor="middle" font-family="Arial, sans-serif" font-size="25" font-weight="700" letter-spacing="5" fill="#101c3a">PHOTO 09</text>
+  <text x="300" y="596" text-anchor="middle" font-family="Arial, sans-serif" font-size="17" fill="#485573">Replace with your photo</text>
+</svg>
